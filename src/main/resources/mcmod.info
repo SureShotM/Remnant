@@ -1,0 +1,16 @@
+[
+{
+  "modid": "remnant",
+  "name": "Remnant(Dust)",
+  "description": "A mod Based on Roster Teeths Show RWBY and dust.",
+  "version": "1.0.0",
+  "credits": "To Roster Teath",
+  "logoFile": "",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Leo"],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [""]
+}

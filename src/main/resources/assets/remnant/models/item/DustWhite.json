@@ -1,0 +1,6 @@
+{
+  "parent":"remnant:item/ItemModelBase",
+  "textures": {
+    "layer0":"remnant:items/WhiteDust"
+  }
+}
